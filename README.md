@@ -1,4 +1,4 @@
-Español ✨
+# Español ✨
 
 API de Joyas
 
@@ -29,10 +29,9 @@ Este proyecto es una **API REST** para consultar joyas almacenadas en una base d
 - Nodemon para desarrollo
 
 
-English✨
+# English✨
 
-# Jewelry API  
-
+Jewelry API  
 This project is a **REST API** for querying jewelry items stored in a PostgreSQL database. It is built with **Node.js, Express, and parameterized queries** to ensure security and prevent SQL injection. The API supports **pagination, sorting, and filtering**, and returns results in **HATEOAS format**, including links to individual resources for easy RESTful navigation.
 
 ### Main Features
